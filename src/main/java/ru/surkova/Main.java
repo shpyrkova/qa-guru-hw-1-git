@@ -2,6 +2,6 @@ package ru.surkova;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello pokemons!");
+        System.out.println("Hello giraffes!");
     }
 }
